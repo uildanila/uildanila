@@ -2,7 +2,7 @@
 
 ![Banner Data Scientist](https://user-images.githubusercontent.com/73053128/181452559-ffdf9240-927c-4514-8bea-d223f116af41.jpeg)
 
-- 🚀 I'm a *data enthusiast* and enjoyed developing web application using *flask* and *bootstrap. 
+- 🚀 I'm a *data enthusiast* and enjoyed developing machine learning model, web application using *flask* and *bootstrap*. 
 - 🌱 Currently learning about *data science and machine learning*, *front-end web development* and everything 😅
 - ⚡ Fun fact: Passionate working with data and implement action-oriented solution to complex business problems, known as creative, curious, and, adaptive, and likes to learn new things.
  
