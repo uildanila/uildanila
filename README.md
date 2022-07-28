@@ -29,7 +29,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-red)
 ![Surprise](https://img.shields.io/badge/-Surprise-pink)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-blueviolet)
-![Flask](https://img.shields.io/badge/-Flask-black)
 
   
 ### Github Statistics
